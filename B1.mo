@@ -1,5 +1,5 @@
 model B1
-  parameter Real a = 1.0;
+  parameter Real a = 3.0;
   output Real y;
 equation
   y = a;
